@@ -8,12 +8,12 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+[GitHub](https://github.com/christina-go/liftoff-assignments/blob/master/P3-Project_Planning/capstone_wireframes.pdf)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+[Trello](https://trello.com/invite/b/VJCgmE4l/7bb1322076b56e9c0db839ec57cc1ba0/silent-auction-lc101-capstone)
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+[GitHub](https://github.com/christina-go/liftoff-assignments)
