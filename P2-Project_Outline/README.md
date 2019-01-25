@@ -34,16 +34,18 @@ I hope that this answers the problem of "I want to sell this, but I don't know h
 --As a buyer, I should be able to see my bid history
 
 ### Technologies
-C#
-.NET and Entity Frameworks
+Python
+Flask framework
 MySQL
-AngularJS
+Vue.js
 Bootstrap
 Google Authentication
+AWS
 
 ### What I'll Have to Learn
-AngularJS
+Vue.js
 Google Authentication
+AWS
 
 ### Link to Project Tracker
 
